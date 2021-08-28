@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1070.732" height="1033.149" viewBox="0 0 1070.732 1033.149">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.131" y1="0.116" x2="0.527" y2="0.72" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0887de"/>
+      <stop offset="0.953" stop-color="#05dabf"/>
+      <stop offset="1" stop-color="#05debe"/>
+    </linearGradient>
+    <filter id="Rectangle_4" x="138.268" y="0" width="932.464" height="793.133" filterUnits="userSpaceOnUse">
+      <feOffset dx="100" dy="100" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5" x="0" y="417.117" width="750.505" height="616.032" filterUnits="userSpaceOnUse">
+      <feOffset dx="50" dy="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_18" data-name="Group 18" transform="translate(-1034 -136.367)">
+    <g id="Group_1" data-name="Group 1" transform="matrix(0.921, -0.391, 0.391, 0.921, -105.378, 653.806)">
+      <g transform="matrix(0.92, 0.39, -0.39, 0.92, 1250.98, -31.11)" filter="url(#Rectangle_4)">
+        <rect id="Rectangle_4-2" data-name="Rectangle 4" width="563" height="300" rx="22" transform="matrix(0.92, -0.39, 0.39, 0.92, 186.77, 268.48)" fill="url(#linear-gradient)"/>
+      </g>
+      <text id="My_Card" data-name="My Card" transform="translate(1381 354)" fill="#fff" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">My Card</tspan></text>
+      <text id="_1234_XXXX_XXXX_XXXX" data-name="1234 XXXX XXXX XXXX" transform="translate(1381 471)" fill="#fff" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1234 XXXX XXXX XXXX</tspan></text>
+      <text id="Aditya_Kumar" data-name="Aditya Kumar" transform="translate(1381 541)" fill="#fff" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Aditya Kumar</tspan></text>
+      <text id="_12_2021" data-name="12/2021" transform="translate(1723 541)" fill="#fff" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">12/2021</tspan></text>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(-275.126 246.869) rotate(-8)">
+      <g transform="matrix(0.99, 0.14, -0.14, 0.99, 1311.76, 72.77)" filter="url(#Rectangle_5)">
+        <rect id="Rectangle_5-2" data-name="Rectangle 5" width="421" height="263" rx="22" transform="translate(98.5 584.21) rotate(-8)" fill="#fff"/>
+      </g>
+      <text id="Balance" transform="translate(1363 716)" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Balance</tspan></text>
+      <path id="Icon_awesome-rupee-sign" data-name="Icon awesome-rupee-sign" d="M30.806,8.651a1.2,1.2,0,0,0,1.2-1.2v-4a1.2,1.2,0,0,0-1.2-1.2H1.2A1.2,1.2,0,0,0,0,3.45V7.926a1.2,1.2,0,0,0,1.2,1.2H9.73a7.216,7.216,0,0,1,6.1,2.726H1.2a1.2,1.2,0,0,0-1.2,1.2v4a1.2,1.2,0,0,0,1.2,1.2H17.079c-.622,3.609-3.3,5.864-7.477,5.864H1.2a1.2,1.2,0,0,0-1.2,1.2v5.3a1.2,1.2,0,0,0,.386.882L16.894,46.74a1.2,1.2,0,0,0,.814.318h8.258a1.2,1.2,0,0,0,.814-2.082L11.689,31.046c7.651-.234,13.117-5.34,13.834-12.793h5.282a1.2,1.2,0,0,0,1.2-1.2v-4a1.2,1.2,0,0,0-1.2-1.2h-5.87a13.7,13.7,0,0,0-1.425-3.2Z" transform="translate(1363 765.947)"/>
+      <text id="_15_000" data-name="15,000" transform="translate(1402.5 811)" font-size="42" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">15,000</tspan></text>
+      <text id="_20_" data-name="+20%" transform="translate(1546.994 812)" fill="#8bde9e" font-size="41" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">+20%</tspan></text>
+      <text id="_Updated_Every_15_Minutes" data-name="*Updated Every 15 Minutes" transform="translate(1363 896)" fill="#687a8a" font-size="25" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">*Updated Every 15 Minutes</tspan></text>
+    </g>
+  </g>
+</svg>
