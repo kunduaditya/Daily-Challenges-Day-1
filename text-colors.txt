@@ -1,3 +1,4 @@
+#TEXT
 CashBank
 
 Transaction Control
@@ -24,3 +25,12 @@ nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
 reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
 pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum.
+
+#COLORS
+Light Green: #CCEBE9
+Gradient
+	Dark Green: #028695
+	L Green: #01B6AD
+Heading: #17455F
+Info: #687A8A
+Contact btn: #0795D9
